@@ -9,7 +9,7 @@
 ## 四、注意事项
 - 1、
 - 2、
-## 六、附录
+## 五、附录
 - 1、plugin.xml文件详细配置介绍：
 [plugin.xml 配置查询](https://github.com/nihaohebin/CordovaPluginDevelopment_IOS/blob/master/%E6%8F%92%E4%BB%B6plugin%E9%85%8D%E7%BD%AE%E4%BB%8B%E7%BB%8D.md)
 - 2、config.xml文件详细配置介绍：
