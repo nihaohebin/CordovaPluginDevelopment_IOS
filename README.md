@@ -6,7 +6,7 @@
 ## 三、快速开发
 [快速自定义cordova插件开发文档](https://github.com/nihaohebin/CordovaPluginDevelopment/blob/master/%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E4%B8%8E%E5%AE%89%E8%A3%85.md)
 ## 四、已配置好的插件开发Android工程环境
-[插件开发IOS工程环境下载](https://github.com/nihaohebin/CordovaPluginDevelopment.git)
+[插件开发IOS工程环境下载](https://github.com/nihaohebin/CordovaPluginDevelopment_IOS/blob/master/README.md)
 ## 五、注意事项
 
 ## 六、附录
