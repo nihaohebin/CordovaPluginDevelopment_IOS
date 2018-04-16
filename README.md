@@ -5,7 +5,7 @@
 - 1、node.js官网：[node.js下载地址](https://nodejs.org/)
 - 2、IOS开发工具：[Xcode下载地址](https://developer.apple.com/cn/xcode/ide/)
 ## 三、快速开发
-[快速自定义cordova插件开发文档](https://github.com/nihaohebin/CordovaPluginDevelopment_IOS/blob/master/%E5%BF%AB%E9%80%9F%E5%BC%80%E5%8F%91.md)
+[IOS快速开发自定义cordova插件文档](https://github.com/nihaohebin/CordovaPluginDevelopment_IOS/blob/master/%E5%BF%AB%E9%80%9F%E5%BC%80%E5%8F%91.md)
 ## 四、已配置好的插件开发IOS工程环境
 [插件开发IOS工程环境下载](https://github.com/nihaohebin/CordovaPluginDevelopment_IOS)
 ## 五、注意事项
